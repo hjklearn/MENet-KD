@@ -1,3 +1,3 @@
 # MENet-KD
 
-##<running> The code will be updated soon ##
+# 🏃The paper will be open code when accepted:running:
